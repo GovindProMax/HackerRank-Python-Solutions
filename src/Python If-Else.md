@@ -1,5 +1,4 @@
 ##**[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)**\
-\
 
 **Solution**
 ```python 3.0
